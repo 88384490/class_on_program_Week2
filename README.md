@@ -1,2 +1,0 @@
-# class_on_program_Week2
-这是python第二周的学习
